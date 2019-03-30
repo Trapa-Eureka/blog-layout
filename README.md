@@ -28,6 +28,4 @@ ver.1 - Simple
 - Testing
 
 ### ~ing (will add)
-- 1 more page
-- apply JS for like Pinterest UI
-- etc
+- Search form
